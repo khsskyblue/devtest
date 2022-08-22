@@ -10,6 +10,7 @@ body {
     font-family: "Inter", sans-serif;
     font-weight: 300;
     overflow-y: scroll;
+    background-img: url('http://bhn.kr/theme/ety_theme_company/img/main_slide_01.jpg');
 }
 
 /* Desktop Nav */
